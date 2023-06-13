@@ -26,7 +26,7 @@ To convert a video file to an audio file, follow these steps:
 
 - Input Video File: [Link](https://github.com/sailohitaksh-cryptic/Mini-Project-13-Video-to-Audio-Conversion/assets/74712527/16fb63a3-bc9c-4f08-8c43-840dacc50ade)
 
-Feel free to explore the input and output files and use them in your projects or experiments.
+Feel free to explore and use them in your projects or experiments.
 
 
 If you have any questions or suggestions regarding this mini-project, please don't hesitate to reach out. Happy coding!
